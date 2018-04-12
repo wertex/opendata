@@ -1,5 +1,6 @@
-<catalog>
-	<array>
+<?xml version="1.0" encoding="utf-8"?>
+<opendata format-version="1.1" version="12-04-2018">
+	<record>
 		<ID>1</ID>
 		<INN>6661075831</INN>
 		<KPP>668501001</KPP>
@@ -43,5 +44,3 @@
 			<WorkingHours><Hours>выходной</Hours><DayOfWeek>воскресенье</DayOfWeek></WorkingHours>
 			<ClarificationOfWorkingHours>обед 13:00-13:48</ClarificationOfWorkingHours>
 		</schedule>
-	</array>
-</catalog>
