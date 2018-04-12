@@ -22,8 +22,11 @@
 			<Office>21</Office>
 			<Result>620026, Свердловская обл., г Екатеринбург, ул Куйбышева, 109, оф 21</Result>
 		</Address>
-		<Chief>Клюкин Александр Михайлович</Chief>
-		<geoData>
+		<Chief>
+			<Post>Директор</Post>
+			<FIO>Клюкин Александр Михайлович</FIO>
+		</Chief>
+			<geoData>
 			<type>Point</type>
 			<coordinates>56.8300049</coordinates>
 			<coordinates>60.6270537</coordinates>
