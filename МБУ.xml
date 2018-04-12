@@ -5,8 +5,6 @@
 		<INN>6661075831</INN>
 		<KPP>668501001</KPP>
 		<OGRN>1036603996252</OGRN>
-		<District>Октябрьский район</District>
-		<AdmArea>Центр</AdmArea>
 		<FullName>Муниципальное бюджетное учреждение "Энергосбережение"</FullName>
 		<ShortName>МБУ "Энергосбережение"</ShortName>
 		<PostalCode>620026</PostalCode>
@@ -15,6 +13,8 @@
 			<Region>Свердловская</Region>
 			<CityType>г</CityType>
 			<City>Екатеринбург</City>
+			<District>Октябрьский район</District>
+			<AdmArea>Центр</AdmArea>
 			<StreetType>ул</StreetType>	
 			<Street>Куйбышева</Street>
 			<HouseType>дом</HouseType>
