@@ -1,0 +1,47 @@
+<catalog>
+	<array>
+		<ID>1</ID>
+		<INN>6661075831</INN>
+		<KPP>668501001</KPP>
+		<OGRN>1036603996252</OGRN>
+		<District>Октябрьский район</District>
+		<AdmArea>Центр</AdmArea>
+		<FullName>Муниципальное бюджетное учреждение "Энергосбережение"</FullName>
+		<ShortName>МБУ "Энергосбережение"</ShortName>
+		<PostalCode>620026</PostalCode>
+		<Address>
+			<RegionType>обл</RegionType>
+			<Region>Свердловская</Region>
+			<CityType>г</CityType>
+			<City>Екатеринбург</City>
+			<StreetType>ул</StreetType>	
+			<Street>Куйбышева</Street>
+			<HouseType>дом</HouseType>
+			<House>109</House>
+			<Office>21</Office>
+			<Result>620026, Свердловская обл., г Екатеринбург, ул Куйбышева, 109, оф 21</Result>
+		</Address>
+		<Chief>Клюкин Александр Михайлович</Chief>
+		<geoData>
+			<type>Point</type>
+			<coordinates>56.8300049</coordinates>
+			<coordinates>60.6270537</coordinates>
+		</geoData>
+		<Phone>
+			<Phone>(343)254-00-46</Phone>
+		</Phone>
+		<Email>
+			<Email>esber2@mail.ru</Email>
+		</Email>
+		<schedule>
+			<WorkingHours><Hours>09:00-18:00</Hours><DayOfWeek>понедельник</DayOfWeek></WorkingHours>
+			<WorkingHours><Hours>09:00-18:00</Hours><DayOfWeek>вторник</DayOfWeek></WorkingHours>
+			<WorkingHours><Hours>09:00-18:00</Hours><DayOfWeek>среда</DayOfWeek></WorkingHours>
+			<WorkingHours><Hours>09:00-18:00</Hours><DayOfWeek>четверг</DayOfWeek></WorkingHours>
+			<WorkingHours><Hours>09:00-17:00</Hours><DayOfWeek>пятница</DayOfWeek></WorkingHours>
+			<WorkingHours><Hours>выходной</Hours><DayOfWeek>суббота</DayOfWeek></WorkingHours>
+			<WorkingHours><Hours>выходной</Hours><DayOfWeek>воскресенье</DayOfWeek></WorkingHours>
+			<ClarificationOfWorkingHours>обед 13:00-13:48</ClarificationOfWorkingHours>
+		</schedule>
+	</array>
+</catalog>
