@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <opendata format-version="1.2" version="12-04-2018">
 	<record>
 		<ID>1</ID>
@@ -39,7 +39,7 @@
 			<Email>esber2@mail.ru</Email>
 		</Email>
 		<Site>http://энергосбережение.екатеринбург.рф/</Site>
-		<schedule>
+		<Schedule>
 			<WorkingHours><Hours>09:00-18:00</Hours><DayOfWeek>понедельник</DayOfWeek></WorkingHours>
 			<WorkingHours><Hours>09:00-18:00</Hours><DayOfWeek>вторник</DayOfWeek></WorkingHours>
 			<WorkingHours><Hours>09:00-18:00</Hours><DayOfWeek>среда</DayOfWeek></WorkingHours>
@@ -48,7 +48,7 @@
 			<WorkingHours><Hours>выходной</Hours><DayOfWeek>суббота</DayOfWeek></WorkingHours>
 			<WorkingHours><Hours>выходной</Hours><DayOfWeek>воскресенье</DayOfWeek></WorkingHours>
 			<ClarificationOfWorkingHours>обед 13:00-13:48</ClarificationOfWorkingHours>
-		</schedule>
+		</Schedule>
 		<target><![CDATA[Внедрение новейших энергоэффективных технологий, научных разработок, прогрессивных энергосберегающих материалов и оборудования для создания условий по рациональному, экономному потреблению энерго- и водоресурсов на объектах городского хозяйства, улучшения экологической обстановки и повышения энергетической эффективности в муниципальном образовании «город Екатеринбург».]]></target>
 		<function><![CDATA[разработка и реализация мероприятий по энергосбережению и повышению энергетической эффективности для снижения потребления коммунальных ресурсов муниципальными объектами, в том числе объектами социальной сферы в муниципальном образовании «город Екатеринбург»;
 участие в реализации федеральных, региональных и муниципальных программ по энергосбережению и повышению энергетической эффективности;
